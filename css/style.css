@@ -1,0 +1,57 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    color: #0f65ef;
+    font-weight: bold;
+    font-size:15px;
+}
+
+.logo {
+    width: 125px;
+}
+
+body {
+    background-color: white;
+}
+
+.siliconValley {
+    width: 50%;
+    height:50%;
+}
+
+#caption {
+    font-size: 20px;
+}
+
+#tomImg {
+    border-radius: 50%;
+    width: 50px;
+}
+
+a {
+    color: #0f65ef;
+    font-weight: bold;
+}
+
+#tom {
+    color: grey;
+}
+
+.result {
+   text-align:center;
+}
+
+button {
+    margin-top: 10px;
+    color: white;
+    background-color: red;
+    font-size: 40px;
+    border-radius: 25px;
+    border:3px groove black ;
+    font-family: monospace;
+}
+
+body{
+
+    margin-left:20px;
+}
