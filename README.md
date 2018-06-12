@@ -23,15 +23,14 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 2
 ### JS
 - [ ] Use your totalScore variable to store the sum of the result of each function when the user clicks the button.
-- [ ] Write a function that places the user to a tech company based on their total score.
+- [ ] Write a function that congratulates the user, by name, on their placement and displays the results on the webpage.
 ### Wrap
 - [ ] Push your changes!
 
 
 ## Day 3
 ### JS
-- [ ] Write a function that congratulates the user, by name, on their placement and displays the results on the webpage.
-
+- [ ] Write a function that places the user to a tech company based on their total score.
 ### Wrap
 - [ ] Push your changes!
 
