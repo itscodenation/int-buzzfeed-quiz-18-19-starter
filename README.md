@@ -14,7 +14,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 ### index.html
--  [ ] Update the HTML to reflect your three questions and the expected answers to your new questions.
+- [ ] Update the HTML to reflect your three questions and the expected answers to your new questions.
 ### JS
 - [ ] Declare a function for each of your questions that returns a number based on the user's input. 
 ### Wrap
