@@ -6,18 +6,20 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 
 ## Day 1
+### Planning
+- [x] Review your Starter Code and make sure you understand what code has already been written for you.
 ### Set-Up
 - [x] Go to the repository at https://github.com/ScriptEdcurriculum/quiz
 - [ ] Fork this repository to your github account and clone it to a new workspace
-- [ ] Review your Starter Code and make sure you understand what code has already been written for you.
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
 ### index.html
-- [ ] Update the HTML to reflect your three questions and the expected answers to your new questions.
+- [ ] Update the HTML to reflect your three questions. Expected answers to your new questions should be placeholders in your input box.
 ### JS
-- [ ] Declare a function for each of your questions that returns a number based on the user's input. 
+- [ ] Using conditional statements, declare a function for each of your questions that returns a number based on the user's input. 
 ### Wrap
 - [ ] Push your changes!
+
 
 ## Day 2
 ### JS
