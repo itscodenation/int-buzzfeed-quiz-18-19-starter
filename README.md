@@ -31,7 +31,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 
 ## Day 3
 ### JS
-- [ ] Write a function that places the user to a tech company based on their total score.
+- [ ] Using the function you created to display the results and conditional statements, write a function that places the user to a tech company based on their total score.
 ### Wrap
 - [ ] Push your changes!
 
