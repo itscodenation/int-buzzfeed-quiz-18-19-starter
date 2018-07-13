@@ -24,7 +24,7 @@ Make sure to check off your items as you complete them. [ ] => [x]
 ## Day 2
 ### JS
 - [ ] Use your totalScore variable to store the sum of the result of each function when the user clicks the button.
-- [ ] Write a function that congratulates the user, by name, on their placement and displays the results on the webpage. For now their placment will be "TBD". 
+- [ ] Write a function that congratulates the user, by name, on their placement and displays the results on the webpage. For now their placement will be "TBD". 
 ### Wrap
 - [ ] Push your changes!
 
